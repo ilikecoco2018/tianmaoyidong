@@ -254,6 +254,7 @@
     border: 0.02rem solid rgb(237, 237, 237);
     margin-bottom: 0.05rem;
     position: relative;
+    background: #ffffff;
 }
 .cnxh_neirong_img{
     width: 2.76rem;
@@ -315,7 +316,7 @@
 .jiaqian123{
     width: 1rem;
     height: 0.56rem;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     font-size: 0.32rem;
     color: #ff0000;
     text-align: center;
